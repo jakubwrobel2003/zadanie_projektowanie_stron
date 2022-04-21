@@ -6,17 +6,19 @@
 }
 /*main*/
 .main {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(2, 1);
+  grid-template-rows: repeat(2, 1);
+  grid-column-gap: 300px;
+  grid-row-gap: 50px;
+  width: 1300px;
 }
 .img-first {
   height: 500px;
   width: 500px;
   background-color: red;
 }
-p{
+.main-p {
+  width: 500px;
   background-color: yellow;
 }
