@@ -7,10 +7,9 @@
 /*nav*/
 .main-baner {
   width: 100%;
-  background-color: gray;
 }
 .baner-clear {
-  background-color: #ffb3c1;
+  background-color: #04aa6d;
   width: 1300px;
   font-family: sans-serif;
   margin: 0 auto;
@@ -27,7 +26,7 @@
   align-content: center;
 }
 .title {
-  color: #590d22;
+  color: white;
   font-size: 60px;
   text-transform: uppercase;
   font-style: italic;
@@ -37,10 +36,11 @@
   gap: 30px;
 }
 .baner-nav a {
+  text-transform: uppercase;
   font-size: 30px;
   font-weight: bold;
   display: inline-block;
-  color: #590d22;
+  color: white;
   text-decoration: none;
   margin-bottom: 20px;
   margin-top: 20px;
@@ -76,11 +76,11 @@
   font-size: 40px;
   font-weight: bold;
   width: 600px;
+  text-transform: uppercase;
 }
 .main-p {
   font-size: 30px;
   width: 600px;
-
   background-color: yellow;
 }
 .main-smaller {
