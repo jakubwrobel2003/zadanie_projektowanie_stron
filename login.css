@@ -20,6 +20,7 @@ button {
 .mainlogin {
   width: 800px;
   margin-top: 150px;
+  min-height: 100%;
 }
 button:hover {
   opacity: 0.8;
