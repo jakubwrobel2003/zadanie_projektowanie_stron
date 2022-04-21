@@ -4,6 +4,9 @@
   margin: 0 auto;
   padding: 0 auto;
 }
+body {
+  background-image: url("beach.jpg");
+}
 /*nav*/
 .main-baner {
   width: 100%;
@@ -59,7 +62,7 @@
 .small-main {
   width: 1300px;
   padding-bottom: 20px;
-  background-color: blue;
+
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -68,9 +71,8 @@
   align-content: flex-start;
 }
 .img-first {
-  height: 500px;
+  height: 400px;
   width: 500px;
-  background-color: red;
 }
 .main-title-p {
   font-size: 40px;
@@ -79,10 +81,12 @@
   text-transform: uppercase;
 }
 .main-p {
-  font-size: 30px;
+  font-size: 25px;
   width: 600px;
-  background-color: yellow;
+  background-color: white;
+  opacity: 0.4;
 }
+
 .main-smaller {
   width: 600px;
 }
