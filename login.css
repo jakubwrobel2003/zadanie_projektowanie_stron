@@ -48,3 +48,8 @@ span.psw {
   border: 1px solid #888;
   width: 80%;
 }
+.password {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
