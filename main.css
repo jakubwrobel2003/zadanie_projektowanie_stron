@@ -28,7 +28,7 @@
 }
 .title {
   color: #590d22;
-  font-size: 26px;
+  font-size: 60px;
   text-transform: uppercase;
   font-style: italic;
 }
@@ -37,7 +37,7 @@
   gap: 30px;
 }
 .baner-nav a {
-  font-size: 23px;
+  font-size: 30px;
   font-weight: bold;
   display: inline-block;
   color: #590d22;
@@ -73,12 +73,12 @@
   background-color: red;
 }
 .main-title-p {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
   width: 600px;
 }
 .main-p {
-  font-size: 20px;
+  font-size: 30px;
   width: 600px;
 
   background-color: yellow;
